@@ -72,25 +72,25 @@ Replaces outdated manual processes with a digital solution.
 
 Simple splash screen for loading.
 
-`![Splash Screen](splashScreen.jpeg)`
+![Splash Screen](splashScreen.jpeg)
 
 ### **Login**
 
 Simple authentication interface for secure access.
 
-`![Login Screen](loginScreen.jpeg)`
+![Login Screen](loginScreen.jpeg)
 
 ### **Home Page**
 
 A clean main menu with three key buttons to navigate the entire process.
 
-`![Home Screen](homeScreen.jpeg)`
+![Home Screen](homeScreen.jpeg)
 
 ### **Output View**
 
 Displays the final processed specialization results with sharing options.
 
-`![Output Screen](outputScreen.jpeg)`
+![Output Screen](outputScreen.jpeg)
 
 ---
 
