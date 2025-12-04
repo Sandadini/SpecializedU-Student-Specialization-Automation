@@ -118,6 +118,6 @@ Project: *SpecializedU – Future-Focused Specialization Selection App*
 
 ## 🙏 **Acknowledgement**
 
-Thank you for using SpecializedU — a future-focused solution to modernize the student specialization selection process.
+Thank you for using SpecializedU - a future-focused solution to modernize the student specialization selection process.
 
 ---
